@@ -54,7 +54,7 @@ These parent folders contain unity projects with all our custom environments. Th
 
 	/v15
 
-This is a standard unity folder contains necessary files for Unity to communicate with its server. Nothing was changed.
+This is a standard Unity folder contains necessary files for Unity to communicate with its server.
 
 	/Assets
 
