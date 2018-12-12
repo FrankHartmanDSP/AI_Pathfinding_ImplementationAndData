@@ -4,6 +4,8 @@ Franklin Hartman and Ethan Marshall
 
 Github Repo Link: https://github.com/FrankHartmanDSP/AI_Pathfinding_ImplementationAndData
 
+Please note that Unity is required to run this project implementation.
+
 
 
 ****Included Data:****
