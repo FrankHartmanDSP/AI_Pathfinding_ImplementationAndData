@@ -2,7 +2,7 @@ README CSCI 4511W Final Project Implementation and Data Collection
 
 Franklin Hartman and Ethan Marshall
 
-Github Repo Link: https://github.com/marsh806/AI_Implementation_Actual.git
+Github Repo Link: https://github.com/FrankHartmanDSP/AI_Pathfinding_ImplementationAndData
 
 
 
